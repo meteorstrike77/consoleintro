@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background-color:darkslategray;
+}
+h1{
+    font-size: 60px;
+    font-family: 'Staatliches', cursive;
+}
+p{
+    font-family: 'Staatliches', cursive;
+    font-size: 20px;
+}
